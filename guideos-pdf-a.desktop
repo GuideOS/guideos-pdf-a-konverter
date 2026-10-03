@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=guideos pdf/a konverter
+Name[de]=GuideOS PDF/A Konverter
+Comment=PDF durchsuchbar machen
+Exec=guideos-pdf-a-app
+Icon=guideos-pdf-a-app
+Terminal=false
+StartupNotify=true
+Categories=Utility;Office;GuideOS;
+StartupWMClass=pdf-a-app
+
+
