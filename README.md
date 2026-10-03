@@ -1,6 +1,6 @@
 # GuideOS PDF/A Konverter
 
-**Klartext** ist eine moderne, schlanke GTK4/Libadwaita-Anwendung für Linux, die gescannte PDF-Dateien mittels **OCRmyPDF** durchsuchbar macht und in das langzeitsichere **PDF/A-Format** umwandelt.
+**Der GuideOS PDF/A Konverter** ist eine moderne, schlanke GTK4/Libadwaita-Anwendung für Linux, die gescannte PDF-Dateien mittels **OCRmyPDF** durchsuchbar macht und in das langzeitsichere **PDF/A-Format** umwandelt.
 
 ![GTK4](https://img.shields.io/badge/GUI-GTK4%20%2F%20Libadwaita-blue)
 ![Python](https://img.shields.io/badge/Language-Python%203-green)
